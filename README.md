@@ -1,6 +1,6 @@
 **What is this?**
 
-Some dockerfiles I made while taking Richard Chesterwood's course [https://www.udemy.com/course/docker-hands-on/](Docker - Hands On for Java Developers). The webapps are not mine!
+Some dockerfiles I made while taking Richard Chesterwood's course [Docker - Hands On for Java Developers](https://www.udemy.com/course/docker-hands-on/). The webapps are not mine!
 
 **What did I learn?**
 
@@ -17,4 +17,4 @@ Pretty good! I learned a lot about Docker and I'm now capable of tinkering with 
 
 **Additional info**
 
-In my free time I like to take courses and, since 2019, I've been trying to write them down and give them a rating. You can see it [https://github.com/abrahammenendez/courses/](here).
+In my free time I like to take courses and, since 2019, I've been trying to write them down and give them a rating. You can see it [here](https://github.com/abrahammenendez/courses/).
