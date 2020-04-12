@@ -1,6 +1,6 @@
 **What is this?**
 
-Some dockerfiles I made while taking Richard Chesterwood's course [Docker - Hands On for Java Developers](https://www.udemy.com/course/docker-hands-on/). The webapps are not mine!
+Some dockerfiles I made for Richard Chesterwood's course [Docker - Hands On for Java Developers](https://www.udemy.com/course/docker-hands-on/). The webapps are not mine!
 
 **What did I learn?**
 
